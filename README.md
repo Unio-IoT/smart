@@ -1,5 +1,6 @@
-# smart-case
-This is for Unio's smart case
+The Unio Smart Case
+Raspberry Pi 4
+
 https://github.com/Unio-IoT/smart-case/blob/master/Diagram.jpg
 
 ![Diagram.jpg](Diagram.jpg)
