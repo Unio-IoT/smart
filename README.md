@@ -1,3 +1,5 @@
+#This script is created by Brijesh Mishra and available as open source utility for Raspberry Pi enthusiastics.
+
 The Unio Smart Case
 Raspberry Pi 4
 
