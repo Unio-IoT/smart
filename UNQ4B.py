@@ -1,3 +1,5 @@
+#This script is created by Brijesh Mishra and available as open source utility for Raspberry Pi enthusiastics.
+
 import subprocess
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
